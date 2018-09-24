@@ -1,7 +1,7 @@
 package main
 
 import (
-  gratitude "github.com/justai-net/gratitude/gratitude"
+  gratitude "github.com/justai-net/gratitude/gratified"
 )
 
 
